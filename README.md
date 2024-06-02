@@ -1,5 +1,6 @@
 # chetixgames.github.io
 
+theme: jekyll-theme-minimal
 Isaac Ramirez: Bekun67 
 Clara Rodriguez: Kopeke4
 
