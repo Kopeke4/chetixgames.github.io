@@ -1,8 +1,10 @@
 # chetixgames.github.io
 
-theme: jekyll-theme-minimal
-Isaac Ramirez: Bekun67 
-Clara Rodriguez: Kopeke4
+theme: jekyll-theme-midnight
+
+# SUPER SOUKOBAN - TRIBUTE
+## Isaac Ramirez: Bekun67 
+## Clara Rodriguez: Kopeke4
 
 
 ***DESCRIPTION OF THE GAME***
