@@ -1,3 +1,5 @@
+remote_theme: Midnight
+
 # chetixgames.github.io
 
 # SUPER SOUKOBAN - TRIBUTE
